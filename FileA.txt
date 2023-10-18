@@ -1,2 +1,0 @@
-feature1
-feature 1 with a bug
